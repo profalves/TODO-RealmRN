@@ -37,13 +37,15 @@ const styles = {
     alignSelf: 'flex-end'
   },
   list: {
-    marginTop: 20
+    marginTop: 20,
+    paddingHorizontal: 20,
   },
   item: {
-    padding: 20,
-    borderRadius: 4,
+    padding: 10,
+    borderRadius: 10,
     backgroundColor: '#FFF',
-    marginBottom: 15
+    marginBottom: 15,
+    color: '#000'
   }
 }
 

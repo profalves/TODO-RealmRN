@@ -1,1 +1,1 @@
-# TODO LIST - React Native + Realm DB
+# TODO LIST: React Native + Realm DB

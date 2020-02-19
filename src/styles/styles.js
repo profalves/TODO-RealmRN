@@ -47,7 +47,7 @@ const styles = {
   },
   item: {
     padding: 10,
-    borderRadius: 10,
+    borderRadius: 6,
     backgroundColor: '#FFF',
     marginBottom: 15,
     color: '#000',

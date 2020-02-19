@@ -36,6 +36,11 @@ const styles = {
     height: 40,
     alignSelf: 'flex-end'
   },
+  error: {
+    color: '#F03',
+    paddingVertical: 10,
+    paddingHorizontal: 20,
+  },
   list: {
     marginTop: 20,
     paddingHorizontal: 20,
@@ -45,7 +50,10 @@ const styles = {
     borderRadius: 10,
     backgroundColor: '#FFF',
     marginBottom: 15,
-    color: '#000'
+    color: '#000',
+    flex: 1,
+    flexDirection: 'row',
+    justifyContent: 'space-between'
   }
 }
 
